@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @GTRrb26
+<!---- 👋 Hi, I’m @GTRrb26
 - 👀 I’m interested in learning Front and Back-End programming.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, SQL and NODE.
 - 💞️ I’m looking to collaborate on creative projects to apply the learning
 - 📫 How to reach me email(prathmeshkumavat000@gmail.com).
 - Thank You for reachingout.
-
+--->
 <!---
 GTRrb26/GTRrb26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,17 +13,18 @@ You can click the Preview link to take a look at your changes.
   Hi, It's Prathmesh here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 <h3 align="center">
-  A passionate Full Stack Developer with a desire to explore more about software development :smile:
+  A passionate Backend Developer with a desire to explore more about software development :smile:
 </h3>
-<h3>Currently digging into Data Analytics, Machine Learning and NLP domain :wink:</h3>
+<h3>Currently digging into Laravel projects, AI integration and Making scalable project :wink:</h3>
 
-🔭 I’m currently working on - Writing blogs, personal finance application
+🔭 I’m currently working on - AI integration, scaling existing projects.
 
-🌱 I’m currently learning - Art of writing blogs, <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft+azure&logoColor=white&style=flat" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat">
+🌱 I’m currently learning - Art of writing blogs,<img alt="Laravel" src="https://img.shields.io/badge/Laravel-F7DF1E?logo=laravel&logoColor=red&style=flat" />
+<img alt="MySql" src="https://img.shields.io/badge/MySql-111111?logo=mysql&logoColor=blue&style=flat" />
 
-💬 Ask me about - Angular, javascript, Typescript
+💬 Ask me about - Laravel, javascript, php
 
-:computer: Current Interest - Python, Data Analytics, Machine learning
+:computer: Current Interest - Laravel, Data Analytics, AI learning, Query building
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/prathmesh-kumawat-b21439220/">
   <img
@@ -41,7 +42,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
+  <img alt="MySql" src="https://img.shields.io/badge/MySql-47A248?logo=mysql&logoColor=white&style=flat" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
 </p>
 <p>
